@@ -1,7 +1,7 @@
 <template>
-  <TheHeader/>
+  <TheHeader>Sport Zone</TheHeader>
   <TheBody/>
-  <TheFooter/>
+  <TheFooter>&copy; March 2022 Will Tengyuan Li </TheFooter>
 </template>
 
 <script>
